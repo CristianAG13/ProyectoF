@@ -1,4 +1,4 @@
-namespace ClinicaApi
+﻿namespace ClinicaApi
 {
     public class WeatherForecast
     {
