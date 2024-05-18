@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaApi", "ClinicaApi\ClinicaApi.csproj", "{4D3FD3E0-689D-45A6-82C0-C4607D62A2EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{07034AEE-57D4-45CE-A18A-EF00F2357AB3}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3FD3E0-689D-45A6-82C0-C4607D62A2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3FD3E0-689D-45A6-82C0-C4607D62A2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3FD3E0-689D-45A6-82C0-C4607D62A2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3FD3E0-689D-45A6-82C0-C4607D62A2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7099DB50-56B7-47FE-8ED5-A3E6618A43C2}
+	EndGlobalSection
+EndGlobal
